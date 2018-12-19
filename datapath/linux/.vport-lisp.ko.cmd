@@ -1,0 +1,1 @@
+cmd_/home/jsen/ovs/openvswitch-2.8.5/datapath/linux/vport-lisp.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jsen/ovs/openvswitch-2.8.5/datapath/linux/vport-lisp.ko /home/jsen/ovs/openvswitch-2.8.5/datapath/linux/vport-lisp.o /home/jsen/ovs/openvswitch-2.8.5/datapath/linux/vport-lisp.mod.o
